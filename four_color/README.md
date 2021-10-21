@@ -1,0 +1,2 @@
+# Four Color Theorem
+Builds a constraint-satisfaction problem (CSP) to solve the four color problem - whether any map can be colored so that no bordering states have the same color. The implementation includes backtracking, forward-checking, and min-conflicts algorithms to assign the colors.
